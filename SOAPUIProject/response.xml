@@ -1,0 +1,3 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"><soap:Body><checkVatResponse xmlns="urn:ec.europa.eu:taxud:vies:services:checkVat:types"><countryCode>IT</countryCode><vatNumber>07334030637</vatNumber><requestDate>2015-12-14+01:00</requestDate><valid>true</valid><name>S.M.S. ENGINEERING SRL</name><address>VIA GALILEO FERRARIS 66/G 
+80142 NAPOLI NA
+</address></checkVatResponse></soap:Body></soap:Envelope>
